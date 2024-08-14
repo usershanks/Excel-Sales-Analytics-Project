@@ -6,7 +6,20 @@
     **1.** Create a _[customer performance report](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/market%20performance.pdf)_
+  
+    **3.** Create a _[Top 10 Performing produts]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/top%20products.pdf))_
 
+    **4.** Create a _[Division Level report]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/division.pdf))_
+
+    **5.** Create a _[Top 5 products report]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/top%205%20procucts.pdf))_
+
+    **6.** Create a _[Bottom 5 products report]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/bottom%205%20products.pdf))_
+
+    **7.** Create a _[New products in 2020 report]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/new%20products.pdf))_
+
+    **8.** Create a _[Top countries report][(https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/top%20countries.pdf))_
+
+    
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -21,6 +34,10 @@
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l_fiscal%20year.pdf)_ & _[Months](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l%20by%20months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l_market.pdf)_
+
+   **3.** Profit and Loss (P&L) reports by _[SubZone]([https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/net%20sales.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l_subzone.pdf))_
+
+   **4.** Create Profit and Loss (P&L) reports by _[Quarter][(https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l_market.pdf](https://github.com/usershanks/Excel-Sales-Analytics-Project/blob/main/p%26l%20by%20months.pdf))_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
